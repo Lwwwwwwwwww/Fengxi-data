@@ -1,0 +1,34 @@
+tout (模拟总时长) (s):
+14400
+dt for strting off  (第一步时间步长)(s):
+0.1
+time interval for output（结果输出的时间间隔） (s):
+300
+norg= -- number of rain; norg>=0
+1
+noinflow= -- number of inflow; noinflow>=0
+0
+Nlanduse= -- number of landuse; Nlanduse>=0
+5
+infiltype= -- 下渗模块类型; 0：所有下渗为0；1：稳定下渗；2：GA下渗；3：Horton下渗
+3
+NLID= -- number of LID along the domain boundary; NLID>=0
+0
+Cweir= -- Change weircoefficient ; Cweir>=0
+1
+Boundary_E= 东侧边界 -37为闭；-36为开
+-36
+Boundary_W= 西侧边界 -37为闭；-36为开
+-36
+Boundary_N= 北侧边界 -37为闭；-36为开
+-36
+Boundary_S= 南侧边界 -37为闭；-36为开
+-36
+Sewer=true -- 包含管网模块 
+true
+InletDrainage=true -- 包含管网模块，并采用节点排水方式概化计算；
+false
+RoadDrainage=true -- 包含管网模块，并采用道路排水方式概化计算
+false
+WholeDrainage=true -- 包含管网模块，并采用全局排水方式概化计算
+false

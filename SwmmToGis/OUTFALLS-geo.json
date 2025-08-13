@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          259.788,
+          376.237
+        ]
+      },
+      "properties": {
+        "name": "1",
+        "Elevation": "384",
+        "Type": "TIMESERIES",
+        "Stage": "387.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.275,
+          695.019
+        ]
+      },
+      "properties": {
+        "name": "2",
+        "Elevation": "384",
+        "Type": "TIMESERIES",
+        "Stage": "387.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          258.515,
+          646.575
+        ]
+      },
+      "properties": {
+        "name": "3",
+        "Elevation": "384",
+        "Type": "TIMESERIES",
+        "Stage": "387.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          262.108,
+          491.941
+        ]
+      },
+      "properties": {
+        "name": "4",
+        "Elevation": "384",
+        "Type": "TIMESERIES",
+        "Stage": "387.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          647.611,
+          285.04
+        ]
+      },
+      "properties": {
+        "name": "5",
+        "Elevation": "384",
+        "Type": "TIMESERIES",
+        "Stage": "387.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1157.959,
+          525.02
+        ]
+      },
+      "properties": {
+        "name": "6",
+        "Elevation": "384.5",
+        "Type": "TIMESERIES",
+        "Stage": "387.85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          636.137,
+          99.746
+        ]
+      },
+      "properties": {
+        "name": "7",
+        "Elevation": "384",
+        "Type": "TIMESERIES",
+        "Stage": "387.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          269.634,
+          179.317
+        ]
+      },
+      "properties": {
+        "name": "8",
+        "Elevation": "383",
+        "Type": "TIMESERIES",
+        "Stage": "386.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          187.584,
+          1074.206
+        ]
+      },
+      "properties": {
+        "name": "11",
+        "Elevation": "381",
+        "Type": "TIMESERIES",
+        "Stage": "384.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.65,
+          1748.148
+        ]
+      },
+      "properties": {
+        "name": "12",
+        "Elevation": "383",
+        "Type": "FREE",
+        "Stage": "NO"
+      }
+    }
+  ]
+}

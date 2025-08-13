@@ -1,0 +1,12 @@
+inpFileName
+FX
+Node_dx:雨水井尺寸
+1
+Node_dy:雨水井尺寸
+1
+Weir_flow_coefficient:堰流公式中堰流系数大小
+0.5
+Orifice_flow_coefficient_in:孔流公式，地表进入管网孔流系数
+0.1
+Orifice_flow_coefficient_out:孔流公式，管网倒灌到地表孔流系数
+0.1
